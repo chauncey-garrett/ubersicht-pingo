@@ -86,7 +86,7 @@ width 180px
 height 45px
 border-radius 5px
 position absolute
-font-family: Avenir, Helvetica
+font-family: Avenir Next, Helvetica Neue
 border solid 1px rgba(#fff,.3)
 padding 5px
 
@@ -123,7 +123,7 @@ h2
   font-size 10px
   text-align center
   display block
-  font-family Menlo
+  font-family: Avenir Next, Helvetica Neue
   border-left 4px solid white
   width 9px
   bottom 0
